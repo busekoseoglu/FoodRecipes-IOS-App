@@ -13,6 +13,24 @@
 		39242FDE26975CF100B8612D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 39242FDC26975CF100B8612D /* Main.storyboard */; };
 		39242FE026975CF200B8612D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 39242FDF26975CF200B8612D /* Assets.xcassets */; };
 		39242FE326975CF200B8612D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 39242FE126975CF200B8612D /* LaunchScreen.storyboard */; };
+		39242FEB26976A2800B8612D /* SignInViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39242FEA26976A2800B8612D /* SignInViewController.swift */; };
+		39242FED26976A4400B8612D /* SignUpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39242FEC26976A4400B8612D /* SignUpViewController.swift */; };
+		39242FEF2697922E00B8612D /* MainPageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39242FEE2697922E00B8612D /* MainPageViewController.swift */; };
+		39242FF126997F9900B8612D /* WorldKitchenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39242FF026997F9900B8612D /* WorldKitchenViewController.swift */; };
+		39242FF3269AF48C00B8612D /* WorldRecipesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39242FF2269AF48C00B8612D /* WorldRecipesViewController.swift */; };
+		39242FF5269B010C00B8612D /* ZeytinyagliRecipeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39242FF4269B010C00B8612D /* ZeytinyagliRecipeViewController.swift */; };
+		39242FF7269B019400B8612D /* ZeytinyagliViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39242FF6269B019400B8612D /* ZeytinyagliViewController.swift */; };
+		39242FF9269B435600B8612D /* MezeRecipeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39242FF8269B435600B8612D /* MezeRecipeViewController.swift */; };
+		39242FFB269B436900B8612D /* MezeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39242FFA269B436900B8612D /* MezeViewController.swift */; };
+		39242FFD269B499100B8612D /* HamurViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39242FFC269B499100B8612D /* HamurViewController.swift */; };
+		39242FFF269B49A400B8612D /* HamurRecipeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39242FFE269B49A400B8612D /* HamurRecipeViewController.swift */; };
+		393E11B9276A68BF00EDC766 /* FoodAppData.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 393E11B7276A68BF00EDC766 /* FoodAppData.xcdatamodeld */; };
+		3968CDCC26A030650005EACD /* YoreselViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3968CDCB26A030650005EACD /* YoreselViewController.swift */; };
+		3968CDCE26A030710005EACD /* YoreselRecipeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3968CDCD26A030710005EACD /* YoreselRecipeViewController.swift */; };
+		3968CDD026A034B60005EACD /* EtViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3968CDCF26A034B60005EACD /* EtViewController.swift */; };
+		3968CDD226A034C50005EACD /* EtRecipeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3968CDD126A034C50005EACD /* EtRecipeViewController.swift */; };
+		39F8C448269CCEC6004E83BC /* TatliViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39F8C447269CCEC6004E83BC /* TatliViewController.swift */; };
+		39F8C44A269CCEE7004E83BC /* TatliRecipeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39F8C449269CCEE7004E83BC /* TatliRecipeViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +42,24 @@
 		39242FDF26975CF200B8612D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		39242FE226975CF200B8612D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		39242FE426975CF200B8612D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		39242FEA26976A2800B8612D /* SignInViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignInViewController.swift; sourceTree = "<group>"; };
+		39242FEC26976A4400B8612D /* SignUpViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpViewController.swift; sourceTree = "<group>"; };
+		39242FEE2697922E00B8612D /* MainPageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainPageViewController.swift; sourceTree = "<group>"; };
+		39242FF026997F9900B8612D /* WorldKitchenViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorldKitchenViewController.swift; sourceTree = "<group>"; };
+		39242FF2269AF48C00B8612D /* WorldRecipesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorldRecipesViewController.swift; sourceTree = "<group>"; };
+		39242FF4269B010C00B8612D /* ZeytinyagliRecipeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZeytinyagliRecipeViewController.swift; sourceTree = "<group>"; };
+		39242FF6269B019400B8612D /* ZeytinyagliViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZeytinyagliViewController.swift; sourceTree = "<group>"; };
+		39242FF8269B435600B8612D /* MezeRecipeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MezeRecipeViewController.swift; sourceTree = "<group>"; };
+		39242FFA269B436900B8612D /* MezeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MezeViewController.swift; sourceTree = "<group>"; };
+		39242FFC269B499100B8612D /* HamurViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HamurViewController.swift; sourceTree = "<group>"; };
+		39242FFE269B49A400B8612D /* HamurRecipeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HamurRecipeViewController.swift; sourceTree = "<group>"; };
+		393E11B8276A68BF00EDC766 /* FoodAppData.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = FoodAppData.xcdatamodel; sourceTree = "<group>"; };
+		3968CDCB26A030650005EACD /* YoreselViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YoreselViewController.swift; sourceTree = "<group>"; };
+		3968CDCD26A030710005EACD /* YoreselRecipeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YoreselRecipeViewController.swift; sourceTree = "<group>"; };
+		3968CDCF26A034B60005EACD /* EtViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EtViewController.swift; sourceTree = "<group>"; };
+		3968CDD126A034C50005EACD /* EtRecipeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EtRecipeViewController.swift; sourceTree = "<group>"; };
+		39F8C447269CCEC6004E83BC /* TatliViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TatliViewController.swift; sourceTree = "<group>"; };
+		39F8C449269CCEE7004E83BC /* TatliRecipeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TatliRecipeViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,10 +95,28 @@
 				39242FD626975CF100B8612D /* AppDelegate.swift */,
 				39242FD826975CF100B8612D /* SceneDelegate.swift */,
 				39242FDA26975CF100B8612D /* ViewController.swift */,
+				39242FEA26976A2800B8612D /* SignInViewController.swift */,
+				39242FEC26976A4400B8612D /* SignUpViewController.swift */,
+				39242FEE2697922E00B8612D /* MainPageViewController.swift */,
+				39242FF026997F9900B8612D /* WorldKitchenViewController.swift */,
+				39242FF2269AF48C00B8612D /* WorldRecipesViewController.swift */,
+				39242FF6269B019400B8612D /* ZeytinyagliViewController.swift */,
+				39242FF4269B010C00B8612D /* ZeytinyagliRecipeViewController.swift */,
+				39242FFA269B436900B8612D /* MezeViewController.swift */,
+				39242FF8269B435600B8612D /* MezeRecipeViewController.swift */,
+				39242FFC269B499100B8612D /* HamurViewController.swift */,
+				39242FFE269B49A400B8612D /* HamurRecipeViewController.swift */,
+				39F8C447269CCEC6004E83BC /* TatliViewController.swift */,
+				39F8C449269CCEE7004E83BC /* TatliRecipeViewController.swift */,
+				3968CDCB26A030650005EACD /* YoreselViewController.swift */,
+				3968CDCD26A030710005EACD /* YoreselRecipeViewController.swift */,
+				3968CDCF26A034B60005EACD /* EtViewController.swift */,
+				3968CDD126A034C50005EACD /* EtRecipeViewController.swift */,
 				39242FDC26975CF100B8612D /* Main.storyboard */,
 				39242FDF26975CF200B8612D /* Assets.xcassets */,
 				39242FE126975CF200B8612D /* LaunchScreen.storyboard */,
 				39242FE426975CF200B8612D /* Info.plist */,
+				393E11B7276A68BF00EDC766 /* FoodAppData.xcdatamodeld */,
 			);
 			path = FoodRecipes;
 			sourceTree = "<group>";
@@ -137,9 +191,27 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				39242FEB26976A2800B8612D /* SignInViewController.swift in Sources */,
+				3968CDCC26A030650005EACD /* YoreselViewController.swift in Sources */,
+				39242FF9269B435600B8612D /* MezeRecipeViewController.swift in Sources */,
+				39F8C448269CCEC6004E83BC /* TatliViewController.swift in Sources */,
 				39242FDB26975CF100B8612D /* ViewController.swift in Sources */,
+				39242FFD269B499100B8612D /* HamurViewController.swift in Sources */,
+				39242FF3269AF48C00B8612D /* WorldRecipesViewController.swift in Sources */,
 				39242FD726975CF100B8612D /* AppDelegate.swift in Sources */,
+				3968CDCE26A030710005EACD /* YoreselRecipeViewController.swift in Sources */,
 				39242FD926975CF100B8612D /* SceneDelegate.swift in Sources */,
+				39242FEF2697922E00B8612D /* MainPageViewController.swift in Sources */,
+				3968CDD226A034C50005EACD /* EtRecipeViewController.swift in Sources */,
+				393E11B9276A68BF00EDC766 /* FoodAppData.xcdatamodeld in Sources */,
+				39242FFF269B49A400B8612D /* HamurRecipeViewController.swift in Sources */,
+				39242FFB269B436900B8612D /* MezeViewController.swift in Sources */,
+				39242FED26976A4400B8612D /* SignUpViewController.swift in Sources */,
+				39242FF5269B010C00B8612D /* ZeytinyagliRecipeViewController.swift in Sources */,
+				39242FF7269B019400B8612D /* ZeytinyagliViewController.swift in Sources */,
+				39242FF126997F9900B8612D /* WorldKitchenViewController.swift in Sources */,
+				3968CDD026A034B60005EACD /* EtViewController.swift in Sources */,
+				39F8C44A269CCEE7004E83BC /* TatliRecipeViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -341,6 +413,19 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		393E11B7276A68BF00EDC766 /* FoodAppData.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				393E11B8276A68BF00EDC766 /* FoodAppData.xcdatamodel */,
+			);
+			currentVersion = 393E11B8276A68BF00EDC766 /* FoodAppData.xcdatamodel */;
+			path = FoodAppData.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
 	};
 	rootObject = 39242FCB26975CF100B8612D /* Project object */;
 }
